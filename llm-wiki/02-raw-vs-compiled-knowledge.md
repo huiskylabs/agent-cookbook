@@ -1,6 +1,6 @@
 # Raw Vs Compiled Knowledge
 
-## Idea
+## Universal Idea
 
 Separate source material from synthesized knowledge.
 
@@ -9,23 +9,18 @@ Raw sources are evidence. Compiled notes are interpretation.
 Mixing them makes the system harder to audit and harder to update.
 
 ```text
-raw source
-  -> agent reads and extracts
-  -> compiled wiki note
-  -> future agents use the note, with source traceability
+raw source -> compiled knowledge -> future use
 ```
 
-## Agent Behavior
+## Why It Matters
 
-The agent should keep this boundary clear:
+Raw material and synthesized understanding have different jobs.
 
-- raw sources are preserved or referenced as inputs;
-- wiki pages summarize, connect, and interpret;
-- uncertain claims are labeled as uncertain;
-- important conclusions retain source attribution;
-- source material should not be silently rewritten as if it were synthesis.
+The raw layer preserves traceability. The compiled layer makes knowledge usable.
 
-## Reuse
+If they collapse into one layer, the system becomes harder to trust: readers cannot tell what came from a source, what was inferred, and what changed over time.
+
+## Composes With
 
 This concept is useful for:
 

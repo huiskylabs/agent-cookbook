@@ -1,10 +1,10 @@
 # Behavior Protocol
 
-## Idea
+## Universal Idea
 
-Markdown can define agent behavior.
+Natural language can define behavior for agents.
 
-Files like `AGENTS.md`, `CLAUDE.md`, or recipe Markdown are not only documentation for humans. They are protocols that tell agents how to operate.
+Some Markdown files are not just documentation for humans. They are protocols that tell agents how to operate.
 
 ```text
 behavior protocol
@@ -14,20 +14,15 @@ behavior protocol
   -> update rules
 ```
 
-This turns a folder of Markdown into an agent-operable system.
+This turns ordinary text into part of the operating surface of a system.
 
-## Agent Behavior
+## Why It Matters
 
-The protocol should tell agents:
+Traditional documentation describes a system for people. A behavior protocol changes how an agent acts inside the system.
 
-- what files to read first;
-- where durable knowledge belongs;
-- what should not be retained;
-- how to update indexes;
-- when to ask for clarification;
-- how to keep changes small and inspectable.
+The same file can be readable by humans and executable by agents, as long as the conventions are clear enough.
 
-## Reuse
+## Composes With
 
 This concept applies beyond wikis:
 

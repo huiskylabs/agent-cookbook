@@ -1,31 +1,26 @@
 # Compounding Knowledge
 
-## Idea
+## Universal Idea
 
 Knowledge should compound instead of being re-derived from scratch.
 
-Most document workflows ask an LLM to search raw material at query time. That works, but the model has to rediscover the same structure again and again.
+Most knowledge workflows repeatedly search raw material at query time. That works, but the system has to rediscover the same structure again and again.
 
-An LLM wiki changes the flow:
+The compounding pattern changes the flow:
 
 ```text
-source -> synthesis -> updated wiki -> better future context
+source -> synthesis -> durable knowledge -> better future work
 ```
 
-The system gets more useful as it is used.
+The system gets more useful as it is used because each useful conclusion can become input to future work.
 
-## Agent Behavior
+## Why It Matters
 
-When new source material or useful analysis appears, the agent should ask:
+Without compounding, every session starts over. The system may have access to old material, but it has not improved its understanding.
 
-- Does this change an existing page?
-- Does it create a new concept, entity, or project note?
-- Should this conclusion be retained for future work?
-- Does the index need to point to it?
+With compounding, the important output is not only the answer. It is the improved state of the knowledge system after the answer.
 
-The goal is not to save everything. The goal is to preserve reusable synthesis.
-
-## Reuse
+## Composes With
 
 This concept applies anywhere work should accumulate:
 

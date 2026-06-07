@@ -1,32 +1,28 @@
 # Progressive Disclosure
 
-## Idea
+## Universal Idea
 
-The agent should load the right context, not all context.
+A system should reveal the right context at the right time, not all context at once.
 
-A memory system becomes harmful if every task starts by dumping the entire wiki into the model. Good memory needs routing.
+A large knowledge system becomes less useful if every task starts by loading everything. Good memory needs a way to start broad, then narrow.
 
 ```text
 task
-  -> read index
-  -> choose relevant pages
+  -> start from a router
+  -> choose relevant context
   -> answer or act
-  -> retain useful outcome when needed
+  -> go deeper only when needed
 ```
 
-Search, indexes, logs, tags, and summaries are all implementation choices. The core idea is progressive disclosure.
+Search, indexes, logs, tags, summaries, and routers are implementation choices. The universal idea is progressive disclosure.
 
-## Agent Behavior
+## Why It Matters
 
-For non-trivial work, the agent should:
+More context is not automatically better context.
 
-1. Start from `wiki/index.md`.
-2. Load only pages relevant to the current task.
-3. Search or inspect deeper only when needed.
-4. State assumptions when context is incomplete.
-5. Avoid loading private or unrelated material by default.
+Too much context can bury the actual task, increase cost, and make the system behave unpredictably. Progressive disclosure keeps context useful by making retrieval staged.
 
-## Reuse
+## Composes With
 
 This concept applies to:
 

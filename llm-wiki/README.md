@@ -22,7 +22,7 @@ An LLM wiki is not just a folder of notes. It is a compounding knowledge system:
 raw sources -> compiled wiki -> progressive context -> agent behavior protocol
 ```
 
-The idea can be factored into four smaller concepts, plus one minimal implementation:
+The pattern can be factored into four universal ideas, plus one minimal implementation:
 
 1. [Compounding knowledge](01-compounding-knowledge.md)
 2. [Raw vs compiled knowledge](02-raw-vs-compiled-knowledge.md)
@@ -30,7 +30,7 @@ The idea can be factored into four smaller concepts, plus one minimal implementa
 4. [Behavior protocol](04-behavior-protocol.md)
 5. [Minimal Markdown implementation](05-minimal-markdown-implementation.md)
 
-Use the first four files to understand the reusable ideas. Use the fifth file to create the smallest practical version.
+Use the first four files to understand the reusable ideas. They do not contain setup instructions. Use the fifth file to create the smallest practical version.
 
 ## Setup Intent
 
