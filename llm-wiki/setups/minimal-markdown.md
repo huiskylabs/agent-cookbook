@@ -1,10 +1,10 @@
-# Minimal Markdown Implementation
+# Minimal Markdown Setup
 
 ## Goal
 
 Create the smallest useful LLM wiki using only Markdown files.
 
-This is one concrete implementation of the ideas in this recipe. Keep it simple. Do not add databases, plugins, scripts, or automation unless the user asks.
+This is one concrete setup for the ideas in this recipe. Keep it simple. Do not add databases, plugins, scripts, or automation unless the user asks.
 
 ## Create This Structure
 
