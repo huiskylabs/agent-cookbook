@@ -2,6 +2,8 @@
 
 This recipe describes a local, agent-maintained wiki inspired by Andrej Karpathy's LLM Wiki pattern.
 
+Inspiration: [Andrej Karpathy's LLM Wiki gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
+
 Give this directory to a coding agent and ask it to set up an LLM wiki in your current workspace.
 
 ```text
