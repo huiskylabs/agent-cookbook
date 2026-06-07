@@ -68,12 +68,3 @@ Then configure the agent behavior:
 - keep the behavior rules in `AGENTS.md` so future agents can follow them.
 
 Ask before adding extra tools, databases, plugins, or automation.
-
-## Reuse
-
-Examples of partial reuse:
-
-- research workflow: use compounding knowledge + raw vs compiled knowledge + progressive disclosure;
-- repo memory: use progressive disclosure + behavior protocol;
-- personal notes: use compounding knowledge + behavior protocol;
-- team docs: use raw vs compiled knowledge + behavior protocol.

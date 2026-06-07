@@ -1,6 +1,6 @@
 # agent-cookbook
 
-Copy-paste-ready recipes for AI agents.
+Agent-readable recipes for AI agents.
 
 Each recipe is a directory of Markdown files. Point Codex, Claude Code, Cursor, or another coding agent at a recipe directory and ask it to set up the pattern in your current workspace.
 
