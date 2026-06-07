@@ -21,7 +21,7 @@ setup https://github.com/huiskylabs/agent-cookbook/tree/main/llm-wiki
 An LLM wiki is not just a folder of notes. It is a compounding knowledge system:
 
 ```text
-raw sources -> compiled wiki -> progressive context -> agent behavior protocol
+raw sources -> compiled wiki -> progressive context
 ```
 
 The pattern is split into isolated ideas and concrete setups:
@@ -31,7 +31,6 @@ ideas/
   01-compounding-knowledge.md
   02-raw-vs-compiled-knowledge.md
   03-progressive-disclosure.md
-  04-behavior-protocol.md
 
 setups/
   minimal-markdown.md
