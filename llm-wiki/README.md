@@ -30,7 +30,7 @@ The pattern can be factored into four universal ideas, plus one minimal implemen
 4. [Behavior protocol](04-behavior-protocol.md)
 5. [Minimal Markdown implementation](05-minimal-markdown-implementation.md)
 
-Use the first four files to understand the reusable ideas. They do not contain setup instructions. Use the fifth file to create the smallest practical version.
+Use the first four files to understand the reusable ideas. They do not contain setup instructions or usage guidance. Use the fifth file to create the smallest practical version.
 
 ## Setup Intent
 

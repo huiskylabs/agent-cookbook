@@ -21,15 +21,3 @@ This turns ordinary text into part of the operating surface of a system.
 Traditional documentation describes a system for people. A behavior protocol changes how an agent acts inside the system.
 
 The same file can be readable by humans and executable by agents, as long as the conventions are clear enough.
-
-## Composes With
-
-This concept applies beyond wikis:
-
-- coding standards;
-- review workflows;
-- bug investigation;
-- research procedures;
-- writing systems;
-- personal assistant behavior;
-- team operating manuals.

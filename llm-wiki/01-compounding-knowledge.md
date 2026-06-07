@@ -19,14 +19,3 @@ The system gets more useful as it is used because each useful conclusion can bec
 Without compounding, every session starts over. The system may have access to old material, but it has not improved its understanding.
 
 With compounding, the important output is not only the answer. It is the improved state of the knowledge system after the answer.
-
-## Composes With
-
-This concept applies anywhere work should accumulate:
-
-- research;
-- legal prep;
-- investing diligence;
-- project memory;
-- personal learning;
-- team knowledge.

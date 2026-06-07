@@ -21,14 +21,3 @@ Search, indexes, logs, tags, summaries, and routers are implementation choices. 
 More context is not automatically better context.
 
 Too much context can bury the actual task, increase cost, and make the system behave unpredictably. Progressive disclosure keeps context useful by making retrieval staged.
-
-## Composes With
-
-This concept applies to:
-
-- coding-agent repo context;
-- personal memory;
-- company docs;
-- research corpora;
-- large project notes;
-- any system where context can outgrow one prompt.
