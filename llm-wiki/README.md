@@ -29,8 +29,8 @@ The pattern is split into isolated ideas and concrete setups:
 ```text
 ideas/
   01-compounding-knowledge.md
-  02-raw-vs-compiled-knowledge.md
-  03-progressive-disclosure.md
+  02-evidence-vs-synthesis.md
+  03-progressive-context.md
 
 setups/
   minimal-markdown.md
@@ -63,7 +63,7 @@ Then configure the agent behavior:
 - store raw source references separately from synthesized notes;
 - update the wiki when new sources or useful conclusions arrive;
 - use `wiki/index.md` as the starting point for context loading;
-- load relevant pages progressively instead of loading everything;
+- load context progressively instead of loading everything;
 - keep the behavior rules in `AGENTS.md` so future agents can follow them.
 
 Ask before adding extra tools, databases, plugins, or automation.

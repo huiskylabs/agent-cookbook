@@ -4,7 +4,7 @@
 
 Create the smallest useful LLM wiki using only Markdown files.
 
-This is one concrete setup for the ideas in this recipe: compounding knowledge, raw vs compiled knowledge, and progressive disclosure.
+This is one concrete setup for the ideas in this recipe: compounding knowledge, evidence vs synthesis, and progressive context.
 
 Keep it simple. Do not add databases, plugins, scripts, or automation unless the user asks.
 
