@@ -4,16 +4,16 @@ This recipe describes a local, agent-maintained wiki inspired by Andrej Karpathy
 
 Inspiration: [Andrej Karpathy's LLM Wiki gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
 
-Give this directory to a coding agent and ask it to set up an LLM wiki in your current workspace.
+Give this directory to a coding agent and ask it to set up or configure an LLM wiki in your current workspace.
 
 ```text
-setup llm-wiki
+setup/configure llm-wiki
 ```
 
 Or point the agent at the public URL:
 
 ```text
-setup https://github.com/huiskylabs/agent-cookbook/tree/main/llm-wiki
+setup/configure https://github.com/huiskylabs/agent-cookbook/tree/main/llm-wiki
 ```
 
 ## The Pattern
