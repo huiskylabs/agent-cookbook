@@ -13,6 +13,7 @@ setup/configure https://github.com/huiskylabs/agent-cookbook/tree/main/llm-wiki
 ## Recipes
 
 - [`llm-wiki`](llm-wiki/) - a composable version of the LLM-maintained wiki pattern inspired by Andrej Karpathy's LLM Wiki gist.
+- [`hermes-tweet-approval-gate`](hermes-tweet-approval-gate/) - an approval-gated X/Twitter workflow pattern for Hermes Tweet.
 
 ## Related Writing
 
